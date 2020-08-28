@@ -1,3 +1,7 @@
+package beasiswa;
+import pembayaran.*;
+import tampil.*;
+
 public class Beasiswa extends Pembayaran implements TampilBayar{    
     public int beasiswa;
 

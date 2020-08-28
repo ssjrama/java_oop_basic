@@ -1,3 +1,4 @@
+package pembayaran;
 public class Pembayaran {
     protected int ukt = 4500000;
     

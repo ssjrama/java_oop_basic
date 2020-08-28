@@ -1,3 +1,6 @@
+package main;
+import beasiswa.*;
+
 public class App {
     public static void main(String[] args) throws Exception {
         Beasiswa beasiswa = new Beasiswa();
